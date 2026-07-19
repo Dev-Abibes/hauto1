@@ -1,0 +1,6 @@
+{
+  "name": "H-AUTO",
+  "description": "Site internet professionnel du garage H-AUTO à Cormontreuil. Découvrez nos services de mécanique générale, notre galerie photos et prenez rendez-vous en ligne.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
